@@ -1,0 +1,54 @@
+{
+  "common": {
+    "attack": {"min": 3.0, "max": 6.0, "probability": 3.2258},
+    "defense": {"min": 5.0, "max": 6.0, "probability": 9.0909},
+    "hp": {"min": 3.0, "max": 10.0, "probability": 1.4085},
+    "attack_speed": {"min": 3.0, "max": 8.0, "probability": 1.9608},
+    "crit_rate": {"min": 3.0, "max": 5.0, "probability": 4.7619},
+    "cooldown": {"min": 2.0, "max": 5.0, "probability": 3.2258},
+    "damage_reduction": {"min": 5.0, "max": 8.0, "probability": 3.2258},
+    "crit_damage_reduction": {"min": 4.0, "max": 8.0, "probability": 2.4390},
+    "beneficial_effect": {"min": 2.0, "max": 4.0, "probability": 4.7619},
+    "harmful_effect": {"min": 2.0, "max": 4.0, "probability": 4.7619},
+    "ignore_damage_reduction": {"min": 5.0, "max": 10.0, "probability": 1.9608}
+  },
+  "rare": {
+    "attack": {"min": 3.0, "max": 6.0, "probability": 3.2258},
+    "defense": {"min": 5.0, "max": 6.0, "probability": 9.0909},
+    "hp": {"min": 3.0, "max": 10.0, "probability": 1.4085},
+    "attack_speed": {"min": 3.0, "max": 8.0, "probability": 1.9608},
+    "crit_rate": {"min": 3.0, "max": 5.0, "probability": 4.7619},
+    "cooldown": {"min": 2.0, "max": 5.0, "probability": 3.2258},
+    "damage_reduction": {"min": 5.0, "max": 8.0, "probability": 3.2258},
+    "crit_damage_reduction": {"min": 4.0, "max": 8.0, "probability": 2.4390},
+    "beneficial_effect": {"min": 2.0, "max": 4.0, "probability": 4.7619},
+    "harmful_effect": {"min": 2.0, "max": 4.0, "probability": 4.7619},
+    "ignore_damage_reduction": {"min": 5.0, "max": 10.0, "probability": 1.9608}
+  },
+  "epic": {
+    "attack": {"min": 3.0, "max": 6.0, "probability": 3.2258},
+    "defense": {"min": 5.0, "max": 6.0, "probability": 9.0909},
+    "hp": {"min": 3.0, "max": 10.0, "probability": 1.4085},
+    "attack_speed": {"min": 3.0, "max": 8.0, "probability": 1.9608},
+    "crit_rate": {"min": 3.0, "max": 5.0, "probability": 4.7619},
+    "cooldown": {"min": 2.0, "max": 5.0, "probability": 3.2258},
+    "damage_reduction": {"min": 5.0, "max": 8.0, "probability": 3.2258},
+    "crit_damage_reduction": {"min": 4.0, "max": 8.0, "probability": 2.4390},
+    "beneficial_effect": {"min": 2.0, "max": 4.0, "probability": 4.7619},
+    "harmful_effect": {"min": 2.0, "max": 4.0, "probability": 4.7619},
+    "ignore_damage_reduction": {"min": 5.0, "max": 10.0, "probability": 1.9608}
+  },
+    "legendary": {
+      "attack": {"min": 3.0, "max": 7.5, "probability": 2.1739},
+      "defense": {"min": 5.0, "max": 7.5, "probability": 3.8462},
+      "hp": {"min": 3.0, "max": 15.0, "probability": 0.8264},
+      "attack_speed": {"min": 3.0, "max": 10.0, "probability": 1.4085},
+      "crit_rate": {"min": 3.0, "max": 7.0, "probability": 2.4390},
+      "cooldown": {"min": 2.0, "max": 6.0, "probability": 2.4390},
+      "damage_reduction": {"min": 5.0, "max": 10.0, "probability": 1.9608},
+      "crit_damage_reduction": {"min": 4.0, "max": 10.0, "probability": 1.6393},
+      "beneficial_effect": {"min": 2.0, "max": 5.0, "probability": 3.2258},
+      "harmful_effect": {"min": 2.0, "max": 5.0, "probability": 3.2258},
+      "ignore_damage_reduction": {"min": 5.0, "max": 15.0, "probability": 0.9901}
+    }
+}
